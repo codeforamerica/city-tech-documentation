@@ -30,13 +30,18 @@ Previous upgrade-your-dumb-browser campaigns:
 
 * [To Hell With Bad Browsers](http://alistapart.com/article/tohell) — A List Apart, 2001
 * [To Hell With Bad Browsers, the sequel](http://www.quirksmode.org/blog/archives/2009/02/to_hell_with_ba.html) — Quirksmode, 2009
+* [The Internet Explorer 8 Countdown](http://theie8countdown.com/)
 
 Friendly upgrade-your-dumb-browser landing pages:
 
 * [Browse Happy](http://browsehappy.com/)
 * [What Browser?](http://whatbrowser.org/)
 
-Overview of supported features between different browser versions: [Can I Use](http://caniuse.com/)
+Overview of supported features between different browser versions:
+
+* [Can I Use](http://caniuse.com/)
+* [HTML5 Demos](http://html5demos.com/)
+* [Is IE9 a Modern Browser?](http://people.mozilla.org/~prouget/ie9/) (Spoiler: No. It isn't.)
 
 ### Responses
 
@@ -70,6 +75,7 @@ This is completely false.
 * Your support time is probably increased because more problems will occur on an older browser. Modern browsers will actually reduce calls for tech support.
 * Modern browsers benefit from bug fixes, and security patches that reduce your own support burden.
 * The benefits of your staff being able to perform their jobs better with modern browsers can result in other savings for your organization.
+* Procuring software that works on older versions of IE is a time and cost burden to your budget. For instance, one startup estimated that supporting Internet Explorer [doubled or tripled their development time](http://techcrunch.com/2012/04/01/bootstrapped-startup-saves-over-100k-by-dropping-ie/), which resulted in ballooning the cost. This additional time is one reason why Code for America apps do not always have the luxury of supporting older browsers. Imagine, though, how much money is sunk into procuring Internet Explorer-friendly software projects because the up-front investment wasn't deemed worth it.
 
 > __“Our staff won’t know how to use other browsers.”__
 
@@ -81,7 +87,7 @@ This is completely false.
 * It does not. Google, for instance, has a policy of only supporting the last two released versions of the Internet Explorer browser. Google Apps [dropped IE8 support on November 2012](http://googleappsupdates.blogspot.com/2012/09/supporting-modern-browsers-internet.html), and its Analytics service [will stop supporting IE8 at the end of 2013](http://analytics.blogspot.com/2013/09/supporting-modern-browsing-experience.html). Now that IE11 is released, Google [may announce in the near future about its plans to discontinue support for IE9](http://www.theregister.co.uk/2013/10/21/google_ie9_support_silence/).
 * Web applications developed using current standards in web technology may not work properly in older versions of Internet Explorer, including applications developed by Code for America.
 
-> __“We don’t have time.”__
+> __“We don’t have time to do it right now, but we can do it some time in the future.”__
 
 * Installing a browser is fast and easy. The staff that needs it can do it on their own, without your help.
 
