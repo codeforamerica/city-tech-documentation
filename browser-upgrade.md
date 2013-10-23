@@ -64,7 +64,7 @@ In other words, there's really no good reason not to upgrade. But in case you fa
 
 > __“Other browsers don’t have enterprise-level support.”__
 
-This is completely false.
+IT managers are often concerned that switching browsers will prevent them from controlling access policies site-wide, or managing upgrade paths. This is completely false.
 
 * [Chrome has enterprise support.](http://www.google.com/intl/en/chrome/business/browser/)
 * [Firefox has enterprise support.](http://www.mozilla.org/en-US/firefox/organizations/)
