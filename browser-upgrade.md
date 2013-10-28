@@ -96,6 +96,7 @@ IT managers are often concerned that switching browsers will prevent them from c
 Actually, you might be interested in hearing from other municipalities that have successfully implemented a modern browser policy:
 
 - [U.S. Department of State](http://googleenterprise.blogspot.com/2012/03/secretary-clinton-announces-state.html)
+- [San Francisco County Transportation Authority](http://www.sfcta.org/)
 - (todo....)
 
 
