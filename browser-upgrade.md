@@ -91,7 +91,7 @@ IT managers are often concerned that switching browsers will prevent them from c
 
 * Installing a browser is fast and easy. The staff that needs it can do it on their own, without your help.
 
-> __"This might not work, and I don't want to raise any noise about it." __
+> __"This might not work, and I don't want to raise any noise about it."__
 
 Actually, you might be interested in hearing from other municipalities that have successfully implemented a modern browser policy:
 
