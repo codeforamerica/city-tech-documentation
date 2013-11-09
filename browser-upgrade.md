@@ -84,7 +84,7 @@ IT managers are often concerned that switching browsers will prevent them from c
 
 > __“We don’t need to upgrade. Everything works fine.”__
 
-* It does not. Google, for instance, has a policy of only supporting the last two released versions of the Internet Explorer browser (currently, 10 and 11). Google Apps [dropped IE8 support on November 2012](http://googleappsupdates.blogspot.com/2012/09/supporting-modern-browsers-internet.html) and [dropped IE9 support on November 2013](http://googleappsupdates.blogspot.ca/2013/11/end-of-support-for-internet-explorer-9.html). Google's Analytics service [will stop supporting IE8 at the end of 2013](http://analytics.blogspot.com/2013/09/supporting-modern-browsing-experience.html).
+* It does not. Google, for instance, has a policy of only supporting the last two released versions of the Internet Explorer browser (currently, 10 and 11). Google Apps [dropped IE8 support in November 2012](http://googleappsupdates.blogspot.com/2012/09/supporting-modern-browsers-internet.html) and [dropped IE9 support in November 2013](http://googleappsupdates.blogspot.ca/2013/11/end-of-support-for-internet-explorer-9.html). Google's Analytics service [will stop supporting IE8 at the end of 2013](http://analytics.blogspot.com/2013/09/supporting-modern-browsing-experience.html).
 * Web applications developed using current standards in web technology may not work properly in older versions of Internet Explorer, including applications developed by Code for America.
 
 > __“We don’t have time to do it right now, but we can do it some time in the future.”__
